@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":20,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726903620~exp=1726907220~hmac=c56bfa6de17b34c6193ab8d829f3f55b5b6de937201e0154051f58e81efd3884&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comdedy Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":30,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1726996075~exp=1726999675~hmac=26ae89d42134ba86f2aee5badcb9a34cf71dd3348f00bc8e8e2d1a23c64983d2&w=740"
+    },
+    {
+        "id":3,
+        "name":"Horror Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":60,
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":4,
+        "name":"Recipe Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":90,
+        "category":"Recipes",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726903620~exp=1726907220~hmac=c56bfa6de17b34c6193ab8d829f3f55b5b6de937201e0154051f58e81efd3884&w=740"
+    },
+    {
+        "id":5,
+        "name":"Songs Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":110,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149320038.jpg?t=st=1726996009~exp=1726999609~hmac=d8f73a721cdfb87a0215c4bd0d0e081da3c23cdfab7af3fcbb6caa67c49bf8f9&w=740"
+    },
+    {
+        "id":6,
+        "name":"Rangoli Design Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":150,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726903620~exp=1726907220~hmac=c56bfa6de17b34c6193ab8d829f3f55b5b6de937201e0154051f58e81efd3884&w=740"
+    },
+    {
+        "id":7,
+        "name":"mhendi Design Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":80,
+        "category":"mhendi",
+        "image":"https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327720.jpg?t=st=1726996504~exp=1727000104~hmac=262441f0b7d2eaee15c900a04d599b05e618def345378e566b294f5b014665b6&w=740"
+    },
+    {
+        "id":8,
+        "name":"kids Songs Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":99,
+        "category":"kidsSongs",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22548.jpg?w=740"
+    },
+    {
+        "id":9,
+        "name":"Words Dictonary",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":120,
+        "category":"Dictonary",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1726996422~exp=1727000022~hmac=ceddc8b9293d9e4d8d53fb1d61fed41f3835aa54e45d8ea8ea7ad55f0bc847ef&w=740"
+    },
+    {
+        "id":10,
+        "name":"Study Of Farming Book",
+        "title":"Lorem ipsum, placeholder or dummy text used in typesetting",
+        "price":200,
+        "category":"Farmer",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726903620~exp=1726907220~hmac=c56bfa6de17b34c6193ab8d829f3f55b5b6de937201e0154051f58e81efd3884&w=740"
+    }
+]
